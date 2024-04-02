@@ -1,0 +1,14 @@
+# Ignore compiled binaries and executables
+*.exe
+*.out
+
+# Ignore dependencies managed by Go modules or dep
+vendor/
+
+# Ignore editor and IDE files
+.vscode/
+
+# Ignore logs and temporary files (adjust as needed)
+*.log
+
+*.db
